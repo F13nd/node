@@ -11,6 +11,7 @@ const errorController = require("./controllers/error");
 const app = express();
 
 //set template engine template engine
+//ini komentar
 app.set("view engine", "ejs");
 app.set("views", "views");
 
